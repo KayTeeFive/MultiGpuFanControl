@@ -10,3 +10,10 @@ This project is not focused on quiet operation. Instead, it is designed to:
 - provide predictable and aggressive cooling behavior
 
 Ideal for homelabs and production setups where GPUs run near 100% utilization for extended periods.
+
+## Running via shell
+<img src="./resources/shell_run.png" alt="Running via shell" width="600">
+
+## Running as systemd service
+
+<img src="./resources/systemd_journal_log_run.png" alt="Running as systemd service" width="600">
